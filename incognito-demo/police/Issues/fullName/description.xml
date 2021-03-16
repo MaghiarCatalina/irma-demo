@@ -1,0 +1,46 @@
+<IssueSpecification version="1">
+	<Name>
+		<en>Demo Name</en>
+	</Name>
+	<ShortName>
+		<en>Demo Name</en>
+	</ShortName>
+	<SchemeManager>incognito-demo</SchemeManager>
+	<IssuerID>police</IssuerID>
+	<CredentialID>fullName</CredentialID>
+	<Description>
+		<en>Your full name, as it is known to the government</en>
+	</Description>
+	<IssueURL>
+		<en></en>
+	</IssueURL>
+	<ShouldBeSingleton>true</ShouldBeSingleton>
+
+	<Attributes>
+		<Attribute id="firstnames">
+			<Name>
+				<en>First names</en>
+			</Name>
+			<Description>
+				<en>All of your first names</en>
+			</Description>
+		</Attribute>
+		<Attribute id="firstname">
+			<Name>
+				<en>First name</en>
+			</Name>
+			<Description>
+				<en>Your first name</en>
+			</Description>
+		</Attribute>
+		<Attribute id="familyname">
+			<Name>
+				<en>Family name</en>
+			</Name>
+			<Description>
+				<en>Your family name</en>
+			</Description>
+		</Attribute>
+
+	</Attributes>
+</IssueSpecification>

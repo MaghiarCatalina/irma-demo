@@ -1,0 +1,14 @@
+<Issuer version="1">
+  <ID>police</ID>
+  <Name>
+	  <en>Demo police</en>
+  </Name>
+  <ShortName>
+	  <en>Demo police-ro</en>
+  </ShortName>
+  <SchemeManager>incognito-demo</SchemeManager>
+  <ContactAddress>Certsign Bucharest Romania</ContactAddress>
+  <ContactEMail>info@certsign.ro</ContactEMail>
+
+  <baseURL></baseURL>
+</Issuer>
